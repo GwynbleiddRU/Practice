@@ -1,0 +1,7 @@
+C:\Users\Пользователь ПК\source\repos\Practice_Task10\Practice_Task10\bin\Debug\Practice_Task10.exe.config
+C:\Users\Пользователь ПК\source\repos\Practice_Task10\Practice_Task10\bin\Debug\Practice_Task10.exe
+C:\Users\Пользователь ПК\source\repos\Practice_Task10\Practice_Task10\bin\Debug\Practice_Task10.pdb
+C:\Users\Пользователь ПК\source\repos\Practice_Task10\Practice_Task10\obj\Debug\Practice_Task10.csprojAssemblyReference.cache
+C:\Users\Пользователь ПК\source\repos\Practice_Task10\Practice_Task10\obj\Debug\Practice_Task10.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь ПК\source\repos\Practice_Task10\Practice_Task10\obj\Debug\Practice_Task10.exe
+C:\Users\Пользователь ПК\source\repos\Practice_Task10\Practice_Task10\obj\Debug\Practice_Task10.pdb
